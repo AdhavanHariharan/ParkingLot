@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.assignment.parkingLot.MallParkingLotTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-05-15T04:46:08" hostname="ahariharan-mbp" time="0.011">
+<testsuite name="org.assignment.parkingLot.MallParkingLotTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-05-15T05:03:11" hostname="ahariharan-mbp" time="0.01">
   <properties/>
-  <testcase name="shouldAllocateParkingSpotsAndReturnSpotNumbers()" classname="org.assignment.parkingLot.MallParkingLotTest" time="0.0"/>
+  <testcase name="shouldAllocateParkingSpotsAndReturnSpotNumbers()" classname="org.assignment.parkingLot.MallParkingLotTest" time="0.001"/>
   <testcase name="shouldAllocateParkingSpotsForTwoWheelersAndReturnErrorMessageForFourWheelersAndTrucks()" classname="org.assignment.parkingLot.MallParkingLotTest" time="0.002"/>
   <testcase name="shouldUnAllocateParkingSpotForGivenTicketAndReturnFees()" classname="org.assignment.parkingLot.MallParkingLotTest" time="0.002"/>
-  <testcase name="shouldAllocateParkingSpotsForTwoVehicleAndReturnErrorMessageForThird()" classname="org.assignment.parkingLot.MallParkingLotTest" time="0.002"/>
-  <testcase name="shouldParkAfterUnparkingAndReturnSpotNumber()" classname="org.assignment.parkingLot.MallParkingLotTest" time="0.002"/>
+  <testcase name="shouldAllocateParkingSpotsForTwoVehicleAndReturnErrorMessageForThird()" classname="org.assignment.parkingLot.MallParkingLotTest" time="0.001"/>
+  <testcase name="shouldParkAfterUnparkingAndReturnSpotNumber()" classname="org.assignment.parkingLot.MallParkingLotTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

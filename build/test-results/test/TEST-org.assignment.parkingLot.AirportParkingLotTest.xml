@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.assignment.parkingLot.AirportParkingLotTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-05-15T04:46:08" hostname="ahariharan-mbp" time="0.016">
+<testsuite name="org.assignment.parkingLot.AirportParkingLotTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-05-15T05:03:11" hostname="ahariharan-mbp" time="0.039">
   <properties/>
-  <testcase name="shouldAllocateParkingSpotsForTwoWheelersAndFourWheelersAndReturnErrorMessageForTrucks()" classname="org.assignment.parkingLot.AirportParkingLotTest" time="0.001"/>
-  <testcase name="shouldUnAllocateParkingSpotForFourWheelersAndReturnFees()" classname="org.assignment.parkingLot.AirportParkingLotTest" time="0.009"/>
+  <testcase name="shouldAllocateParkingSpotsForTwoWheelersAndFourWheelersAndReturnErrorMessageForTrucks()" classname="org.assignment.parkingLot.AirportParkingLotTest" time="0.021"/>
+  <testcase name="shouldUnAllocateParkingSpotForFourWheelersAndReturnFees()" classname="org.assignment.parkingLot.AirportParkingLotTest" time="0.011"/>
   <testcase name="shouldAllocateParkingSpotsAndReturnSpotNumbers()" classname="org.assignment.parkingLot.AirportParkingLotTest" time="0.001"/>
-  <testcase name="shouldUnAllocateParkingSpotForTwoWheelersAndReturnFees()" classname="org.assignment.parkingLot.AirportParkingLotTest" time="0.002"/>
+  <testcase name="shouldUnAllocateParkingSpotForTwoWheelersAndReturnFees()" classname="org.assignment.parkingLot.AirportParkingLotTest" time="0.003"/>
   <system-out><![CDATA[totalHours 0
 totalHours 23
 totalHours 73
