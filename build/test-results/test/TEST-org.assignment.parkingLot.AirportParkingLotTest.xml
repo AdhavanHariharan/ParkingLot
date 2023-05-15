@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.assignment.parkingLot.AirportParkingLotTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-05-15T04:46:08" hostname="ahariharan-mbp" time="0.016">
+  <properties/>
+  <testcase name="shouldAllocateParkingSpotsForTwoWheelersAndFourWheelersAndReturnErrorMessageForTrucks()" classname="org.assignment.parkingLot.AirportParkingLotTest" time="0.001"/>
+  <testcase name="shouldUnAllocateParkingSpotForFourWheelersAndReturnFees()" classname="org.assignment.parkingLot.AirportParkingLotTest" time="0.009"/>
+  <testcase name="shouldAllocateParkingSpotsAndReturnSpotNumbers()" classname="org.assignment.parkingLot.AirportParkingLotTest" time="0.001"/>
+  <testcase name="shouldUnAllocateParkingSpotForTwoWheelersAndReturnFees()" classname="org.assignment.parkingLot.AirportParkingLotTest" time="0.002"/>
+  <system-out><![CDATA[totalHours 0
+totalHours 23
+totalHours 73
+totalHours 0
+totalHours 14
+totalHours 36
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
